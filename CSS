@@ -1,0 +1,5 @@
+CSS Syntax display: value; Property Values More Examples Example A demonstration of how to use the contents property value. In the following example the .a container will disappear, and making the child elements (.b) children of the element the next level up in the DOM: .a { display: contents; border: 2px solid red; background-color: #ccc;
+
+p.inline{
+  display: inline;
+}
